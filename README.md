@@ -5,7 +5,7 @@ This is an addin for Excel, which extends the default functionality of Excel wit
   <img width="100%" src="/screenshots/ribbon-tab.png">
 </p>
 
-I developed [another addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can considerably reduce the time you spend in Excel, when working with contact information, such as when you're working in a human resource department.
+I developed [another free addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can considerably reduce the time you spend in Excel, when working with contact information, such as when you're working in a human resource department.
 
 # Compatibility
 
