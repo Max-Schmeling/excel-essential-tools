@@ -1,7 +1,11 @@
 # Excel Essential Tools
-This is an Excel macro addin facilitating a range of tools saving time when doing monotonous tasks
+This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel. Once the tool is installed, a new tab will appear in Excel as illustrated in the following screenshot. There is no documentation, except for the VBA-code. Just install and try it. It's free.
 
-# What can the addin do for you?
+<p align="center">
+  <img width="100%" src="/screenshots/ribbon-tab.png">
+</p>
+
+I developed [another addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can save a considerable amount of time when working with contact information, such as e-mail addresses of your collegues or similar.
 
 # Compatibility
 
@@ -17,11 +21,7 @@ The add-in only works for local installations of Microsoft Excel, i.e., this add
 
 # Troubleshooting
 
-1. If a yellow banner appears at the top of your spreadsheet, you will have to click `Enable Content`, before the add-in becomes usable (see screenshot):
-<p align="center">
-  <img width="100%" src="/screenshots/enable_macros.png">
-</p>
-
+1. If a yellow banner appears at the top of your spreadsheet, you will have to click `Enable Content`, before the add-in becomes usable:
 2. Head to *File >> Options >> Trust Center >> Macro Settings* in Excel and make sure that macros and the VBA-object model are both enabled (see screenshot):
 <p align="center">
   <img width="100%" src="/screenshots/enable_macros2.png">
@@ -29,4 +29,4 @@ The add-in only works for local installations of Microsoft Excel, i.e., this add
 
 # Disclaimer
 
-Do whatever you want with the source code, but make it open source when you publish anything based on the conents of this repository! Also do not sue me and do not make me responsible for any damage caused by the use of the addin. When using VBA-based addins its always a good idea to save your work regularly - trust me.
+Do whatever you want with the source code, but make it open source when you publish anything based on the conents of this repository! Also do not sue me and do not make me responsible for any damage caused by the use of the addin. When using VBA-based addins its always a good idea to save your work regularly.
