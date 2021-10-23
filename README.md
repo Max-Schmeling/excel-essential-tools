@@ -1,11 +1,29 @@
 # Excel Essential Tools
-This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel. Once the tool is installed, a new tab will appear in Excel as illustrated in the following screenshot. There is no documentation, except for the VBA-code. Just install and try it. It's free.
+This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel. Once the tool is installed, a new tab will appear in Excel as illustrated in the following screenshot.
 
 <p align="center">
   <img width="100%" src="/screenshots/ribbon-tab.png">
 </p>
 
-I developed [another free addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can considerably reduce the time you spend in Excel, when working with contact information, such as when you're working in a human resource department.
+I developed [another addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can considerably reduce the time you spend in Excel, when working with contact information, such as when you're working in a human resource department.
+
+# What can the addin do for you?
+The addin is especially useful for users who work with large tables, because it features tools for navigating in worksheets quickly. One feature which I have been using regularly allows you to find duplicates in the columns of a table, and shows you which columns are primary keys (100% unique items). Check out the screenshots, to see the available tools:
+<p align="center">
+  <img width="100%" src="/screenshots/menu_select.png">
+</p>
+<p align="center">
+  <img width="100%" src="/screenshots/menu_workbook.png">
+</p>
+<p align="center">
+  <img width="100%" src="/screenshots/menu_worksheet.png">
+</p>
+<p align="center">
+  <img width="100%" src="/screenshots/menu_text.png">
+</p>
+<p align="center">
+  <img width="100%" src="/screenshots/menu_table.png">
+</p>
 
 # Compatibility
 
