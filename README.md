@@ -1,5 +1,5 @@
 # Excel Essential Tools
-This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel. Once the tool is installed, a new tab will appear in Excel as illustrated in the following screenshot.
+This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel. All the tools I developed for the addin arise from a concrete need. Once the tool is installed, a new tab will appear in Excel as illustrated in the following screenshot.
 
 <p align="center">
   <img width="100%" src="/screenshots/ribbon-tab.png">
@@ -8,7 +8,7 @@ This is an addin for Excel, which extends the default functionality of Excel wit
 I developed [another addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can considerably reduce the time you spend in Excel, when working with contact information, such as when you're working in a human resource department.
 
 # What can the addin do for you?
-The addin is especially useful for users who work with large tables, because it features tools for navigating in worksheets quickly. It also features tools to manipulate multiple cells at once, such as removing whitespace characters, or adding a certain string to multiple cells at a specific position. One feature which I have been using regularly allows you to find duplicates in the columns of a table (see *Detect duplicates*), and shows you which columns are primary keys (100% unique items). Check out the screenshots, to see all available tools:
+The addin is especially useful for users who work with large tables, because it features tools for navigating in worksheets quickly. It also features tools to manipulate multiple cells at once, such as removing whitespace characters, or adding a certain string to multiple cells at a specific position. One feature which I have been using regularly allows you to find duplicates in the columns of a table (see *Detect duplicates*), and shows you which columns are primary keys (100% unique items). Check out the screenshots, to see all of the available tools:
 <p align="center">
   <img width="100%" src="/screenshots/menu_select.png">
 </p>
