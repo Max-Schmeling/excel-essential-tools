@@ -1,5 +1,5 @@
 # Excel Essential Tools
-This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel. It features tools for unexperienced and experienced users. A few tools overlap with those of Power-Query, but most of them solve problems, which Power-Query doesn't. The idea is to keep it easy to use for everybody. For that reason, there is also no documentation, because I tried to keep the tools self-explanatory. Once the addin is installed, a new tab will appear in Excel as illustrated in the following screenshot:
+This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel and some are faster than Excel's default tools. It features tools for unexperienced and experienced users. A few tools overlap with those of Power-Query, but most of them solve problems, which Power-Query doesn't. The idea is to keep it easy to use for everybody. For that reason, there is also no documentation, because I tried to keep the tools self-explanatory. Once the addin is installed, a new tab will appear in Excel as illustrated in the following screenshot:
 
 <p align="center">
   <img width="100%" src="/screenshots/ribbon-tab.png">
@@ -13,8 +13,11 @@ Here is a quick summary of the features (from left to right).
 * Menu *Select*: This menu contains tools to expand the selection in various directions. Also good, if you work very large tables.
 * Menu *Workbook*: This menu contains tools to manage the current workbook. This includes renaming, moving, deleting, or opening the directory of the current workbook in the file-explorer, without having to close or minimize the workbook. It also includes tools to hide or unhide multiple worksheets with one click.
 * Menu *Worksheet*: This menu contains tools to edit the current worksheet. This includes hiding and unhiding multiple columns at once, and resizing or inserting multiple cells at once. It also includes a tool to delete unused rows in a worksheet, in case you get hold of a workbook whose worksheets are endlessly scrollable.
-* Menu *Range*: This menu contains tools 
-Check out the screenshots and if that isn't enough, just give it a try.
+* Menu *Range*: This menu contains tools to edit a range of cells with one click. This includes tools to convert formulas to values, convert numbers stored as text to numbers (faster than Excel can do), apply a calculation to multiple number-cells, reset selected formats (this is useful when you have a worksheet which is headachingly bad formatted), and transforming ranges.
+* Menu *Text*: This menu contains tools to edit the text in multiple cells at once. You can remove excessive whitespace and invisible characters, remove specific text, remove characters at a specific position, and insert text at a specific position.
+* Menu *Table*: This menu contains tools to analyze and edit tables: You can find duplicates in each column of a table, find out which columns are unique (i.e. best for doing VLOOKUPs), split a table into multiple tables (also with separate worksheets or workbooks if you want to) based on a criteria-column, combine multiple tables from multiple workbook-files, convert A1-references into table-references (e.g. [@[mycolumn]])
+
+Check out the following screenshots or just give it a try:
 
 <p align="center">
   <img width="100%" src="/screenshots/menu_select.png">
@@ -24,6 +27,9 @@ Check out the screenshots and if that isn't enough, just give it a try.
 </p>
 <p align="center">
   <img width="100%" src="/screenshots/menu_worksheet.png">
+</p>
+<p align="center">
+  <img width="100%" src="/screenshots/menu_range.png">
 </p>
 <p align="center">
   <img width="100%" src="/screenshots/menu_text.png">
