@@ -12,7 +12,8 @@ Here is a quick summary of the features (from left to right).
 * Group *Navigation*: This group of tools is useful for users who work with large tables, because it allows you to navigate in worksheets quickly.
 * Menu *Select*: This menu contains tools to expand the selection in various directions. Also good, if you work very large tables.
 * Menu *Workbook*: This menu contains tools to manage the current workbook. This includes renaming, moving, deleting, or opening the directory of the current workbook in the file-explorer, without having to close or minimize the workbook. It also includes tools to hide or unhide multiple worksheets with one click.
-* Menu *Worksheet*: 
+* Menu *Worksheet*: This menu contains tools to edit the current worksheet. This includes hiding and unhiding multiple columns at once, and resizing or inserting multiple cells at once. It also includes a tool to delete unused rows in a worksheet, in case you get hold of a workbook whose worksheets are endlessly scrollable.
+* Menu *Range*: This menu contains tools 
 Check out the screenshots and if that isn't enough, just give it a try.
 
 <p align="center">
