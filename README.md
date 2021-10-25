@@ -40,7 +40,7 @@ Check out the following screenshots or just give it a try:
 
 # Compatibility
 
-The add-in only works for local installations of Microsoft Excel, i.e., this add-in does not work with a browser-version of Microsoft Office.
+The addin only works for local installations of Microsoft Excel, i.e., this add-in does not work with a browser-version of Microsoft Office.
 
 # Installation
 
