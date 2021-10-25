@@ -1,5 +1,5 @@
 # Excel Essential Tools
-This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel and some are faster than Excel's default tools. It features tools for unexperienced and experienced users. A few tools overlap with those of Power-Query, but most of them solve problems, which Power-Query doesn't. The idea is to keep it easy to use for everybody. For that reason, there is also no documentation, because I tried to keep the tools self-explanatory. Once the addin is installed, a new tab will appear in Excel as illustrated in the following screenshot:
+This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel and some are meant to speed up Excel's default tools. It features tools for unexperienced and experienced users. A few tools overlap with those of Power-Query, but most of them solve problems, which Power-Query doesn't. The idea is to keep it easy to use for everybody. For that reason, there is also no documentation, because I tried to keep the tools self-explanatory. Once the addin is installed, a new tab will appear in Excel as illustrated in the following screenshot:
 
 <p align="center">
   <img width="100%" src="/screenshots/ribbon-tab.png">
@@ -57,6 +57,12 @@ The add-in only works for local installations of Microsoft Excel, i.e., this add
 <p align="center">
   <img width="100%" src="/screenshots/enable_macros2.png">
 </p>
+
+# Support
+
+The addin is by no means perfect. If you want to contribute, there are two favorable ways:
+1. If you find any imperfections such as typos, bugs, or performance issues, feel free to open an issue.
+2. If you want to translate the addin into your language you can open an issue for that too. The basic multi-language functionality is already implemented, new languages just need to be added.
 
 # Disclaimer
 
