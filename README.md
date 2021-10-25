@@ -58,7 +58,7 @@ The add-in only works for local installations of Microsoft Excel, i.e., this add
   <img width="100%" src="/screenshots/enable_macros2.png">
 </p>
 
-# Support
+# Contribution
 
 The addin is by no means perfect. If you want to contribute, there are two favorable ways:
 1. If you find any imperfections such as typos, bugs, or performance issues, feel free to open an issue.
