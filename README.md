@@ -1,11 +1,11 @@
 # Excel Essential Tools
-This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel and some are meant to speed up Excel's default tools. It features tools for unexperienced and experienced users. A few tools overlap with those of Power-Query, but most of them solve problems, which Power-Query doesn't. The idea is to keep it easy to use for everybody. For that reason, there is also no documentation, because I tried to keep the tools self-explanatory. Once the addin is installed, a new tab will appear in Excel as illustrated in the following screenshot:
+This is an addin for Excel, which extends the default functionality of Excel with more than 50 tools. The tools were developed to save the user time when doing monotonous tasks in Excel and some are meant to speed up Excel's default tools. It features tools for unexperienced and experienced users. A few tools overlap with those of Power-Query, but most of them solve problems, which Power-Query doesn't. The idea is to keep it easy to use for everybody. For that reason, there is also no documentation, because I tried to keep the tools self-explanatory. If you want to contribute to the development, head to the section *Contribution*. Once the addin is installed, a new tab will appear in Excel as illustrated in the following screenshot:
 
 <p align="center">
   <img width="100%" src="/screenshots/ribbon-tab.png">
 </p>
 
-I developed [another addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can considerably reduce the time you spend in Excel, when working with contact information, such as when you're working in a human resource department.
+*I developed [another addin](https://github.com/Max-Schmeling/excel-contact-tools) for Excel, which can considerably reduce the time you spend in Excel, when working with contact information, such as when you're working in a human resource department.*
 
 # What can the addin do for you?
 Here is a quick summary of the features (from left to right in the screenshot).
