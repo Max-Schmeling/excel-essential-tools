@@ -9,7 +9,7 @@ This is an addin for Excel, which extends the default functionality of Excel wit
 
 # What can the addin do for you?
 Here is a quick summary of the features (from left to right in the screenshot).
-* Group ***Navigation***: This group of tools is useful for users who work with large tables, because it allows you to navigate in worksheets quickly.
+* Group ***Navigation***: This group of tools is useful for users who work with large tables, because it allows you to navigate in worksheets quickly. Clicking one of the eight arrows will make the view jump to the last or first cell which contains data, depending on which direction you choose.
 * Menu ***Select***: This menu contains tools to expand the current selection in various directions. That's also useful, if you work very large tables. To make an example, say you have a table with 500k rows, and you want to select the data of a column (not the entire column), whose cells are empty every other row. In this case, neither `CTRL`+`SPACE` nor `CTRL`+`SHIFT`+`UP/DOWN-ARROW` will help you - but the tool *Expand selection to the top/bottom* has got you covered.
 * Menu ***Workbook***: This menu contains tools to manage the current workbook. This includes renaming, moving, deleting, or opening the directory of the current workbook in the file-explorer, without having to close or minimize the workbook. It also includes tools to hide or unhide multiple worksheets with one click.
 * Menu ***Worksheet***: This menu contains tools to edit the current worksheet. This includes hiding and unhiding multiple columns at once, and resizing or inserting multiple cells at once. It also includes a tool to delete unused rows in a worksheet, in case you get hold of a workbook whose worksheets are endlessly scrollable.
@@ -63,6 +63,7 @@ The addin only works for local installations of Microsoft Excel, i.e., this add-
 The addin is by no means perfect. If you want to contribute, there are two favorable ways:
 1. If you find any imperfections such as typos, bugs, or performance issues, feel free to open an issue.
 2. If you want to translate the addin into your language you can open an issue for that too. The basic multi-language functionality is already implemented, new languages just need to be added.
+3. People told me they'd be willing to pay for some of the features. If you like what you use, I'd be happy to accept a dontation: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=V84BCLCD8DQK4)
 
 # Disclaimer
 
